@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleAdsMob Test</string>
+    
+    <string name="fake_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="fake_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
